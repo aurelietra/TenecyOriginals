@@ -1,0 +1,7 @@
+<svg id="arrow" xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="Rectangle_30" data-name="Rectangle 30" fill="#fff" stroke="#191919" stroke-width="1">
+    <rect width="41" height="41" rx="1" stroke="none"/>
+    <rect x="0.5" y="0.5" width="40" height="40" rx="0.5" fill="none"/>
+  </g>
+  <path id="icons8-long_arrow_up" d="M7.531.93l-3.5,3.318.694.715,2.31-2.184V13.93H8.044V2.8l2.294,2.164.694-.715Z" transform="translate(12.969 13.07)"/>
+</svg>

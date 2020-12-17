@@ -1,0 +1,17 @@
+#picture_homepage_summer1{
+    width: 306px;
+height: 445px;
+    z-index: 10;
+    margin-top: 330px;
+}
+
+#picture_homepage_summer2{
+    width: 636px;
+height: 913px;
+}
+.slide-image {
+    display: flex
+}
+
+
+
